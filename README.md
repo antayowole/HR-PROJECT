@@ -34,7 +34,6 @@ This project analyzes employee data to uncover key insights about workforce tren
 - Certain roles showed higher turnover trends
 - Experience level influenced employee retention
 
----
 
 ## 💡 Recommendations
 - Improve employee engagement in high-attrition departments
@@ -42,19 +41,14 @@ This project analyzes employee data to uncover key insights about workforce tren
 - Monitor job satisfaction metrics regularly
 - Provide targeted support for new employees
 
----
-
 ## 📈 Dashboard
-
-
----
+https://github.com/antayowole/HR-PROJECT/blob/main/HUMAN%20RESOURCE%20DASHBOARD.png
 
 ## 📁 Project Files
 - Dataset
 - Dashboard file
 - Analysis files
 
----
 
 ## 🚀 Conclusion
 This analysis demonstrates how HR data can be leveraged to identify workforce challenges and support strategic decision-making.
